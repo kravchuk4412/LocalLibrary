@@ -15,4 +15,4 @@
 11. Підготувати звіт, створити репозиторій та завантажити усі власні файли на github.com.
 
 Посилання на звіт на GoogleDrive:
-https://docs.google.com/document/d/1yWIsgMCRMAoMQUSj-0YueyUg5TQkCA13/edit?rtpof=true
+https://drive.google.com/file/d/1yWIsgMCRMAoMQUSj-0YueyUg5TQkCA13/view?usp=sharing
